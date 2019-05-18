@@ -11,7 +11,7 @@ github_repo: "https://github.com/18862207019/18862207019.github.io.git" # you co
 
 # Sidebar settings
 sidebar: truw                           # whether or not using Sidebar.
-sidebar-about-description: " 静下心来去努力去思考，一起加油！！！！！！!"
+# sidebar-about-description: " 静下心来去努力去思考，一起加油！！！！！！!"
 # sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
